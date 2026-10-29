@@ -20,4 +20,3 @@ public class EspecialidadesController : Controller
  return View(especialidade);
  }
 }
-
