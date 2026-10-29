@@ -8,7 +8,11 @@ aplicação completa entregue na Aula 20. O enunciado completo do case está em
 
 ## Identificação
 
-- Nome completo: José Romualdo da Costa
-- RA: 1234567890
+- Nome completo: Edvânio Máximo da Silva
+- RA: 926114228
 - Turma: quinta
-- O que espero aprender: publicar minha primeira aplicação web na internet.
+- O que espero aprender: Publicar minha primeira aplicação web na internet.
+
+## Ambiente .NET
+- SDK: 10.0.x (obtido com `dotnet --list-sdks`)
+- Executar: `cd ClinicaVida.Web` e depois `dotnet watch run`
